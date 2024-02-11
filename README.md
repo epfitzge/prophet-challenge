@@ -1,1 +1,2 @@
 # prophet-challenge
+The purpose of this challenge was to pull in Mercado Libre Google search trend data, compare to the company's stock price history and volatility, and utilize the Prophet program to forecast potential future stock price trends.
